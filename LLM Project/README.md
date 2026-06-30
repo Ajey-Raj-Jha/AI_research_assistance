@@ -294,11 +294,8 @@ Comprehensive logging across:
 - Graph visualization of LangGraph workflow
 - PDF/Word export for AI-generated reports
   
----
 
-## 🪪 License
 
-**MIT License** – Free to use and modify.
 
 ---
 
